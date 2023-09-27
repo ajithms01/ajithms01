@@ -3,7 +3,7 @@
 <img align="center"  alt="coding" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 
-- 🔭 I’m currently working on [Travel Management Web App](https://github.com/ajithms01/TripMuse)
+- 🔭 I’m currently working on learning Flutter
 
 - 🌱 I’m currently learning **Advanced CSS,React,Machine Learning fundamentals etc.**
 
